@@ -1,4 +1,11 @@
+# checking if prompt is safe
+
 blocked_words = [
+    "ignore previous instructions",
+    "reveal system prompt",
+    "delete memory",
+    "bypass security"
+]blocked_words = [
     "ignore previous instructions",
     "reveal system prompt",
     "delete memory",
