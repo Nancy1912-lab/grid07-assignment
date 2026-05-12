@@ -56,4 +56,4 @@ Input:
 bitcoin trends
 
 Output:
-crypto persona selected
+Persona Selected: crypto
